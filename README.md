@@ -7,3 +7,4 @@ newfunc
 newfunc2
 
 new world
+new func
