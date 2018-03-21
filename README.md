@@ -8,3 +8,5 @@ newfunc2
 
 new world
 new func
+
+edit by windows
